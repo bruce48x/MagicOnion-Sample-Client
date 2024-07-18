@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/NewUSSFile.uss?fileID=7433441132597879392&amp;guid=7538f487b19d1d9488468e4ca6ee7a8f&amp;type=3#NewUSSFile" />
+    <ui:TextField picking-mode="Ignore" label="room name" value="room1" name="room" />
+    <ui:TextField picking-mode="Ignore" label="your name" value="user1" name="name" />
+    <ui:Button text="Connect" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Connect" />
+    <ui:Button text="Disconnect" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Disconnect" />
+</ui:UXML>

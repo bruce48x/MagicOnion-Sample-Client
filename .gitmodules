@@ -1,0 +1,3 @@
+[submodule "magiconion-sample-server"]
+	path = magiconion-sample-server
+	url = https://github.com/bruce48x/MagicOnion-Sample-Server
